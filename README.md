@@ -9,5 +9,5 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [YouTube Channel](http://arunadhikari.com)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am half Finnish
+- ⚡ Fun fact: ... I spend almost 12 hours listening songs everyday.
 
