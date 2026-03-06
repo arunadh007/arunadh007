@@ -32,7 +32,13 @@ I am a **multi-disciplinary creator from India** combining **music production, w
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=arunadh007&show_icons=true&theme=radical" />
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arunadh007&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -40,7 +46,19 @@ I am a **multi-disciplinary creator from India** combining **music production, w
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=arunadh007&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=arunadh007&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎬 Latest Music / Videos
+
+<div align="center">
+
+<a href="https://youtube.com/@arunadh007">
+<img src="https://img.shields.io/badge/Watch%20My%20Music%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
 </div>
 
