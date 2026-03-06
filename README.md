@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 Hi, I'm Arun Adhikari
+### My name is Arun Adhikari and I'm a full stack developer! 👋
 
 I am a **multi-disciplinary creator from India** combining **music production, website development and app development** to build creative digital experiences.
 
