@@ -27,12 +27,16 @@ I'm a multi-disciplinary **Music Producer** and **Web Developer** from Jamshedpu
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Tech Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunadh007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=arunadh007&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arunadh007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8e2de2&text_color=ffffff&height=195" alt="Arun's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=arunadh007&hide_border=true&background=0D1117&ring=00F7FF&fire=8e2de2&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&currStreakLabel=8e2de2&statletns=ffffff&height=195" alt="Arun's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunadh007&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&height=150" alt="Top Languages" />
+</p>
 
 ---
 
