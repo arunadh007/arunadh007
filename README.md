@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Arun%20Adhikari&fontAlign=50&fontAlignY=40&color=0:6a11cb,100:2575fc&fontColor=ffffff&fontSize=50&desc=Music%20Producer%20|%20Web%20%26%20App%20Developer&descAlignY=60&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=260&section=header&text=Arun%20Adhikari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Music%20Producer%20|%20Web%20Developer%20|%20App%20Developer&descAlignY=60&descSize=22"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Music+Producer;Website+Developer;App+Developer;Founder+of+NNB+Digital+Media;Building+Music+%26+Technology"/>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Music+Producer;Website+Developer;App+Developer;Founder+of+NNB+Digital+Media;Building+Music+%26+Technology"/>
 
 </div>
 
