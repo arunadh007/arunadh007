@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Arun Adhikari 👋
 
-<!--
-**arunadh007/arunadh007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎵 Music Producer | Web Creator | Digital Creator  
 
-Here are some ideas to get you started:
+I am a music producer and digital creator from India.  
+I produce EDM, Bass Music, Moombahton, Desi Hip Hop and Indian Pop.  
+Along with music, I also build websites and digital projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Founder of **NNB Digital Media**.
+
+---
+
+## 🚀 About Me
+- 🎧 Music Producer & Vocal Artist  
+- 🌐 Building websites and digital projects  
+- 🎶 Passionate about beats and melodies  
+- 📍 Based in India  
+
+---
+
+## 🌐 Website
+https://www.sdadhikari.com.np/
+
+---
+
+## 📱 Connect With Me
+- X: https://x.com/arunadh007  
+- Instagram: https://instagram.com/arunadh007  
+- Facebook: https://facebook.com/arunadh007  
+- TikTok: https://tiktok.com/@arunadh007  
+
+---
+
+⭐ Fun fact: I can spend almost 12 hours listening to music every day.
