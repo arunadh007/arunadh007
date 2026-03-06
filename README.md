@@ -14,12 +14,12 @@
 
 I am a **multi-disciplinary creator from India**, combining **music production, web development and app development** to build immersive digital experiences.
 
-* 🔭 Currently working on **EDM music projects and modern web applications**
-* 🌐 **Website Developer**
-* 📱 **App Developer**
-* 🎵 **Music Producer (EDM, Bass Music, Moombahton, Indian Pop)**
-* 💼 **Founder of NNB Digital Media**
-* ⚡ **Fun fact:** I can spend over **12 hours listening to music while coding**
+- 🔭 Currently working on **EDM music projects and modern web applications**
+- 🌐 **Website Developer**
+- 📱 **App Developer**
+- 🎵 **Music Producer (EDM, Bass Music, Moombahton, Indian Pop)**
+- 💼 **Founder of NNB Digital Media**
+- ⚡ **Fun fact:** I can spend over **12 hours listening to music while coding**
 
 ---
 
