@@ -8,11 +8,11 @@
 
 # Hi, I'm Arun Adhikari 👋
 
-🎵 **Music Producer | Web Creator | Digital Creator**
+🎵 Music Producer | Web Creator | Digital Creator  
 
 I am a music producer and digital creator from India.  
-I produce **EDM, Bass Music, Moombahton, Desi Hip Hop and Indian Pop**.  
-Along with music, I also build **websites and digital projects**.
+I produce EDM, Bass Music, Moombahton, Desi Hip Hop and Indian Pop.  
+Along with music, I also build websites and digital projects.
 
 Founder of **NNB Digital Media**.
 
@@ -35,10 +35,13 @@ https://www.sdadhikari.com.np/
 
 # 📱 Connect With Me
 
-- X (Twitter): https://x.com/arunadh007  
-- Instagram: https://instagram.com/arunadh007  
-- Facebook: https://facebook.com/arunadh007  
-- TikTok: https://tiktok.com/@arunadh007  
+[![X](https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arunadh007)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arunadh007)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/arunadh007)
+
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@arunadh007)
 
 ---
 
@@ -54,5 +57,18 @@ https://www.sdadhikari.com.np/
 
 ---
 
-⭐ **Fun Fact:**  
+# 👀 Profile Visitors
+
+![](https://komarev.com/ghpvc/?username=arunadh007&color=blue&style=for-the-badge)
+
+---
+
+# 🎵 Latest Music
+
+▶ Watch on YouTube  
+https://www.youtube.com/@arunadh007
+
+---
+
+⭐ Fun Fact:  
 I can spend more than **12 hours listening to music every day.**
