@@ -78,14 +78,6 @@ I am a **multi-disciplinary creator from India** combining **music production, w
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=arunadh007&label=Profile%20Views&color=blue&style=flat"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -96,10 +88,8 @@ I am a **multi-disciplinary creator from India** combining **music production, w
 
 ---
 
-## 🎧 Spotify Music
-
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=spotify&cover_image=true&theme=default&show_offline=true&background_color=121212"/>
+<img src="https://komarev.com/ghpvc/?username=arunadh007&label=Profile%20Views&color=blue&style=flat"/>
 
 </div>
