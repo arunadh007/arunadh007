@@ -36,7 +36,7 @@ I am a **multi-disciplinary creator from India** combining **music production, w
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arunadh007&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=arunadh007&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 
 </div>
 
