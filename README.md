@@ -44,13 +44,13 @@ https://www.sdadhikari.com.np/
 
 # 📊 GitHub Stats
 
-![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunadh007&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunadh007&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=arunadh007&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=arunadh007&theme=tokyonight&hide_border=true)
 
 ---
 
