@@ -12,7 +12,7 @@
 
 ### My name is Arun Adhikari and I'm a full stack developer! 👋
 
-I am a **multi-disciplinary creator from India** combining **music production, website development and app development** to build creative digital experiences.
+Arun Adhikari is an Indian music producer, web developer, and app developer known for creating digital projects that combine technology and music. He produces electronic music genres such as EDM, Bass Music, Moombahton, Desi Hip Hop, and Indian Pop, while also developing websites and applications for creative and digital media projects.
 
 - 🔭 I’m currently working on ... YouTube
 - 🌱 I’m currently learning ... Vue.js
