@@ -91,8 +91,4 @@ He is an Indian music producer, web developer, and app developer known for creat
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=arunadh007&label=Profile%20Views&color=blue&style=flat"/>
-
-</div>
+<a href="https://u8views.com/github/arunadh007"><img src="https://u8views.com/api/v1/github/profiles/47660741/views/day-week-month-total-count.svg"></a>
