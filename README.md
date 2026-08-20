@@ -1,94 +1,51 @@
-<div align="center">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=arunadh007&theme=github-dark&label=Arun%20Adhikari%20" width="100%" alt="Arun Adhikari " />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=260&section=header&text=Arun%20Adhikari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Music%20Producer%20|%20Web%20Developer%20|%20App%20Developer&descAlignY=60&descSize=22"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=arunadh007&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=arunadh007&theme=github-dark&mode=dark" width="100%" alt="Arun Adhikari  — profile" />
+  </picture>
+</p>
 
-<br>
+<p align="center"><a href="https://github.com/arunadh007">GitHub</a> &nbsp;·&nbsp; <a href="https://sdadhikari.com.np">Website</a> &nbsp;·&nbsp; <a href="https://x.com/arunadh007">X</a></p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Music+Producer;Website+Developer;App+Developer;Founder+of+NNB+Digital+Media;Building+Music+%26+Technology"/>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/about?username=arunadh007&theme=github-dark" alt="arunadh007 about visual" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=arunadh007&theme=github-dark" alt="arunadh007 stack visual" />
+</p>
 
----
+## Signal
 
-### My name is Arun Adhikari and Music Producer, Web Developer and App Developer 👋
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=arunadh007&theme=github-dark" width="100%" alt="1 stars across 4 repositories" />
+</p>
 
-He is an Indian music producer, web developer, and app developer known for creating digital projects that combine technology and music. He produces electronic music genres such as EDM, Bass Music, Moombahton, Desi Hip Hop, and Indian Pop, while also developing websites and applications for creative and digital media projects.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=arunadh007&theme=github-dark" width="100%" alt="Language stack" />
+</p>
 
-- 🔭 I’m currently working on ... YouTube
-- 🌱 I’m currently learning ... Vue.js
-- 👯 I’m looking to collaborate on ... Vue.js
-- 🤔 I’m looking for help with ... AWS
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [YouTube Channel](https://youtube.com/channel/UClj9SlpoifWxwvZ1QPOplHQ)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I spend almost 12 hours listening songs everyday.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=arunadh007&theme=github-dark" alt="arunadh007 projects visual" />
+</p>
 
----
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=arunadh007&theme=github-dark" alt="arunadh007 social visual" />
+</p>
 
-## 🛠️ My Toolbox
+## Profile scan
 
-<div align="center">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/system-scan?username=arunadh007&theme=github-dark" width="100%" alt="ASCII profile scan" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,flutter,androidstudio,git,github,vscode,figma&theme=dark" />
+<hr />
 
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=arunadh007&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🎬 Latest Music / Videos
-
-<div align="center">
-
-<a href="https://youtube.com/@arunadh007">
-<img src="https://img.shields.io/badge/Watch%20My%20Music%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.sdadhikari.com.np/">
-<img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://x.com/arunadh007">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/arunadh007">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@arunadh007">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/arunadh007/arunadh007/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-<a href="https://u8views.com/github/arunadh007"><img src="https://u8views.com/api/v1/github/profiles/47660741/views/day-week-month-total-count.svg"></a>
+<p align="center">
+  <sub>Arun Adhikari  · every panel is a single <code>&lt;img&gt;</code> of live GitHub data ·
+  built with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+</p>
